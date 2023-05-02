@@ -11,6 +11,10 @@
     {
       "id": "Public.dbversion",
       "isDefault": false
+    },
+    {
+      "id": "Public.users",
+      "isDefault": false
     }
   ],
   "viewMode": false,
